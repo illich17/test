@@ -1,4 +1,4 @@
 <?php
-echo ("Hello world");
-$name = "Developer";
+echo ("Hello ");
+$name = " Developer";
 echo $name;
